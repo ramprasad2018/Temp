@@ -2,3 +2,4 @@ https://medium.freecodecamp.org/search?q=serverless
 https://medium.freecodecamp.org/going-serverless-how-to-run-your-first-aws-lambda-function-in-the-cloud-d866a9b51536
 https://www.quora.com/Wheres-the-best-place-to-learn-serverless
 https://docs.aws.amazon.com/lambda/latest/dg/vpc-rds.html
+https://martinfowler.com/articles/serverless.html
