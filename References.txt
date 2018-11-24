@@ -3,3 +3,6 @@ https://medium.freecodecamp.org/going-serverless-how-to-run-your-first-aws-lambd
 https://www.quora.com/Wheres-the-best-place-to-learn-serverless
 https://docs.aws.amazon.com/lambda/latest/dg/vpc-rds.html
 https://martinfowler.com/articles/serverless.html
+
+AWS ApSync
+https://www.youtube.com/watch?v=sQN28Jo-nak
