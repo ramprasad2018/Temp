@@ -6,6 +6,7 @@ https://martinfowler.com/articles/serverless.html
 
 AWS ApSync
 https://www.youtube.com/watch?v=sQN28Jo-nak
+https://itnext.io/graphql-made-easy-by-aws-appsync-21dfae586d51
 
 GraphQL
 https://github.com/serverless/serverless-graphql
