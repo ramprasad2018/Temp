@@ -12,6 +12,7 @@ AWS ApSync
 https://www.youtube.com/watch?v=sQN28Jo-nak
 https://itnext.io/graphql-made-easy-by-aws-appsync-21dfae586d51   (important)
 https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7    (Important)
+https://code.tutsplus.com/tutorials/code-an-app-with-graphql-and-react-native--cms-30511
 
 
 GraphQL
