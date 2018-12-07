@@ -2,6 +2,10 @@ Practice AWS
 ------------
 https://qwiklabs.com/
 
+Redis URLs:
+-----------
+https://www.programcreek.com/java-api-examples/?api=redis.clients.jedis.JedisPubSub
+
 
 https://medium.freecodecamp.org/search?q=serverless
 https://medium.freecodecamp.org/going-serverless-how-to-run-your-first-aws-lambda-function-in-the-cloud-d866a9b51536
