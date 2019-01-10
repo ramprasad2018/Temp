@@ -1,3 +1,11 @@
+ES6
+-----
+You donot know JS eBook
+http://b-ok.cc/book/2335062/cd7369
+Understanding ECMA Script 6
+http://www.r-5.org/files/books/computers/languages/escss/fp/Nicholas_C_Zakas-Understanding_ECMAScript_6-EN.pdf
+
+
 Practice AWS
 ------------
 https://qwiklabs.com/
