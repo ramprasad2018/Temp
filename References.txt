@@ -36,6 +36,7 @@ ISO:8583
 REACT Programming
 ------------------
 https://blog.jetbrains.com/webstorm/2017/01/debugging-react-apps/
+https://hackr.io/tutorials/learn-react
 
 https://www.robinwieruch.de/minimal-react-webpack-babel-setup/
 https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/
