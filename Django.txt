@@ -1,0 +1,10 @@
+1. Installing Django in offline mode:
+
+---------------------------------------
+Download a Django release on a machine with internet connection from https://github.com/django/django/releases
+As of Django 1.11, pytz is a dependency. Download the latest wheel from pypi
+Transfer the downloaded files to the offline PC
+Install pytz: pip install pytz-2017.3-py2.py3-none-any.whl (update filename as appropriate)
+Install Django: pip install <release-name>.zip
+For example, if you downloaded django-1.9.2.zip from Github, you can install it by running
+--------------------------------------------------------------------------------------------
