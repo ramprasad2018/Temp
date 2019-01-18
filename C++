@@ -1,0 +1,4 @@
+1. How to process the HTTP rquest in C++
+-----------------------------------------
+https://stackoverflow.com/questions/15179409/how-to-parse-http-request-in-c
+https://github.com/d5/node.native/tree/master/native
