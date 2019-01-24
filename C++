@@ -2,6 +2,9 @@
    https://bellard.org/jslinux/
    https://www.onlinegdb.com/edit/SJqogiIQ4#
    
+Creating and using DLL
+----------------------
+https://docs.microsoft.com/en-us/cpp/build/walkthrough-creating-and-using-a-dynamic-link-library-cpp?view=vs-2017
 
 1. Online C++ Compiler
 -----------------------
