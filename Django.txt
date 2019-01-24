@@ -20,5 +20,9 @@ For example, if you downloaded django-1.9.2.zip from Github, you can install it 
 2. https://docs.python.org/3/extending/building.html
 3. https://docs.microsoft.com/en-us/visualstudio/python/working-with-c-cpp-python-in-visual-studio?view=vs-2017
 
+Deploying in Azure
+-------------------
+https://www.youtube.com/watch?v=WG3pGmoo8nE
+
 
 
