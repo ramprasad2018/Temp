@@ -25,4 +25,44 @@ Deploying in Azure
 https://www.youtube.com/watch?v=WG3pGmoo8nE
 
 
+TUTORIALS SECTION
+
+Tutorials
+----------
+
+1. Simple Web Form
+	
+   https://www.youtube.com/watch?v=D6esTdOLXh4
+
+
+2. Using Cloud Postgres SQL with Python - Django
+   https://www.youtube.com/watch?v=r9kT-jm136Q&t=1507s
+
+
+2. Submit data in a form using POST method
+   https://www.youtube.com/watch?v=irH98-4eKmQ&index=24&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK
+
+3. Integrating VS Code with git hub
+   https://www.youtube.com/watch?v=9cMWR-EGFuY
+
+4. Forms
+   https://www.youtube.com/watch?v=3XOS_UpJirU&t=485s
+
+5. https://djangobook.com/django-templates/
+
+6. https://overiq.com/django-1-11/
+
+7. https://github.com/overiq/TGDB
+
+8. https://overiq.com/django-1-11/template-tags-in-django/
+
+
+
+
+
+
+github.com/zooba/ogre3d-python-embed
+
+
+
 
