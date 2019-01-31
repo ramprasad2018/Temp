@@ -24,4 +24,5 @@ https://github.com/d5/node.native/tree/master/native
 
 https://www.learncpp.com/
 https://thispointer.com/c11-c14-delete-keyword-and-deleted-functions-with-use-cases-examples/
+https://www.bfilipek.com/2017/01/cpp17features.html#intro
 
