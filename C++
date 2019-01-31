@@ -23,4 +23,5 @@ https://stackoverflow.com/questions/15179409/how-to-parse-http-request-in-c
 https://github.com/d5/node.native/tree/master/native
 
 https://www.learncpp.com/
+https://thispointer.com/c11-c14-delete-keyword-and-deleted-functions-with-use-cases-examples/
 
