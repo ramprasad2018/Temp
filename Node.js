@@ -1,5 +1,8 @@
 ADDON
 ----------
+Source code of the book C++ and Node.js Integration
+https://github.com/freezer333/nodecpp-demo
+
 
 Commands
 ----------
