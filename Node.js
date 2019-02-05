@@ -3,6 +3,9 @@ ADDON
 Source code of the book C++ and Node.js Integration
 https://github.com/freezer333/nodecpp-demo
 
+https://github.com/justadudewhohacks/node-addon-tutorial
+
+
 Installing node on Redhat
 -------------------------
  https://linuxize.com/post/how-to-install-node-js-on-centos-7/
