@@ -1,3 +1,8 @@
+1. C++ Specification and Examples
+----------------------------------
+https://en.cppreference.com/w/cpp/utility/program/abort
+
+
 1. Online access to Linux with g++
    https://bellard.org/jslinux/
    https://www.onlinegdb.com/edit/SJqogiIQ4#
