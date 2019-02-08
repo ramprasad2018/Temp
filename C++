@@ -2,6 +2,10 @@
 ----------------------------------
 https://en.cppreference.com/w/cpp/utility/program/abort
 
+2. C++ Tips and techniques
+--------------------------
+https://www.geeksforgeeks.org/static_cast-in-c-type-casting-operators/
+
 
 1. Online access to Linux with g++
    https://bellard.org/jslinux/
