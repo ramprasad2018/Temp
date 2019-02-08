@@ -7,6 +7,7 @@ https://github.com/justadudewhohacks/node-addon-tutorial
 
 https://medium.com/@muehler.v/tutorial-to-node-js-native-c-modules-part-2-arrays-json-and-callbacks-9b81f09874cd
 https://github.com/nodejs/nan#usage
+https://nodeaddons.com/getting-your-c-to-the-web-with-node-js/
 
 
 Installing node on Redhat
