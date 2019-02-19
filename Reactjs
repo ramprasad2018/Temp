@@ -5,6 +5,9 @@
 3. https://reactjs.org/community/courses.html
 4. https://www.robinwieruch.de/learn-react-js/
 5. https://reacttraining.com/react-router/web/guides/philosophy
+6. https://reacttraining.com/react-router/web/example/basic
+7. https://react-bootstrap.github.io/components/buttons/
+8. https://facebook.github.io/create-react-app/docs/adding-a-router
 
 React Hooks
 -----------
@@ -13,6 +16,7 @@ https://www.robinwieruch.de/react-hooks-fetch-data/
 React-JS Components
 --------------------
 https://react-bootstrap.github.io/getting-started/introduction/
+https://facebook.github.io/create-react-app/docs/adding-a-router
 
 
 React Reusable Code Samples
