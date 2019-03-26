@@ -25,6 +25,7 @@ Deploying in Azure
 https://www.youtube.com/watch?v=WG3pGmoo8nE
 
 
+
 TUTORIALS SECTION
 
 Tutorials
@@ -56,7 +57,9 @@ Tutorials
 
 8. https://overiq.com/django-1-11/template-tags-in-django/
 
-
+9. Multithread in Python:
+   https://www.simplifiedpython.net/python-threading-example/
+   
 
 
 
