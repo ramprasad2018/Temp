@@ -24,7 +24,14 @@ Deploying in Azure
 -------------------
 https://www.youtube.com/watch?v=WG3pGmoo8nE
 
-
+Online Resources
+-----------------
+https://www.fullstackpython.com/django.html
+https://tutorial.djangogirls.org/en/django_start_project/
+https://engineering.paiza.io/entry/paizacloud_django
+https://realpython.com/python-development-visual-studio-code/
+https://code.visualstudio.com/docs/python/tutorial-django
+https://paiza.cloud/containers   (Github credential panigrahyr8@gmail.com)
 
 TUTORIALS SECTION
 
@@ -62,9 +69,9 @@ Tutorials
    
 
 
-
-
 github.com/zooba/ogre3d-python-embed
+
+
 
 
 
