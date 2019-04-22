@@ -15,6 +15,8 @@ For example, if you downloaded django-1.9.2.zip from Github, you can install it 
 3. https://automatetheboringstuff.com/
 4. https://www.maxongzb.com/common-pitfalls-of-building-restful-apis-in-django-for-your-front-end/
 		(Important amnd contains all important Django Links)
+5. http://www.cdrf.co/
+	(Important for references of REST Classes)
 		
 3. Using C Functions in Python:
 --------------------------------
