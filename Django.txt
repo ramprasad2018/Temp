@@ -13,7 +13,9 @@ For example, if you downloaded django-1.9.2.zip from Github, you can install it 
 1. https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Client-Server_overview
 2. https://medium.com/quick-code/top-tutorials-to-learn-django-framework-for-python-beginners-fe1a9e315aa9
 3. https://automatetheboringstuff.com/
-
+4. https://www.maxongzb.com/common-pitfalls-of-building-restful-apis-in-django-for-your-front-end/
+		(Important amnd contains all important Django Links)
+		
 3. Using C Functions in Python:
 --------------------------------
 1. https://www.youtube.com/watch?v=a65JdvOaygM
