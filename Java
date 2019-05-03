@@ -6,5 +6,6 @@ https://www.youtube.com/watch?v=YLCeNwJSkk0&list=PLmbC-xnvykcghOSOJ1ZF6ja3aOgZAg
 https://spring.io/guides
 https://hellokoding.com/
 https://www.e4developer.com/2018/08/06/spring-boot-best-practices/
+https://www.javaguides.net
 
 
