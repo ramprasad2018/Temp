@@ -11,3 +11,7 @@ https://www.javadevjournal.com/rest-with-spring-series
 https://javapointers.com/
 https://javabrains.io/topics/         (IMPORTANT)
 https://github.com/arifhasnatnstucsteonGit/ProgrammingBooks    (IMPORTANT)
+http://springtutorials.com/
+https://spring.io/docs      (IMPORTANT)
+https://docs.spring.io/spring/docs/current/spring-framework-reference/   (IMPORTANT)
+
