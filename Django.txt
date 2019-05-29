@@ -71,7 +71,10 @@ Tutorials
 9. Multithread in Python:
    https://www.simplifiedpython.net/python-threading-example/
    
+10. Django projects
 
+   https://ultimatedjango.com/
+   
 
 github.com/zooba/ogre3d-python-embed
 
