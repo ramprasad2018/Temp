@@ -78,6 +78,8 @@ Tutorials
 
 github.com/zooba/ogre3d-python-embed
 
+IMPORTANT on REST API with Youtub Channl Links
+11. https://www.maxongzb.com/common-pitfalls-of-building-restful-apis-in-django-for-your-front-end/
 
 
 
