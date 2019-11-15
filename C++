@@ -1,3 +1,11 @@
+Tutorial
+---------
+
+https://www.learncpp.com/cpp-tutorial/6-12a-for-each-loops/
+
+
+
+
 1. C++ Specification and Examples
 ----------------------------------
 https://en.cppreference.com/w/cpp/utility/program/abort
