@@ -3,6 +3,9 @@ Tutorial
 
 https://www.learncpp.com/cpp-tutorial/6-12a-for-each-loops/
 
+C++ FAQ
+--------
+https://isocpp.org/wiki/faq/classes-and-objects
 
 
 
