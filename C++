@@ -3,6 +3,11 @@ Tutorial
 
 https://www.learncpp.com/cpp-tutorial/6-12a-for-each-loops/
 
+ISO 8583 Library in C++
+------------------------
+https://github.com/sabit/Oscar-ISO8583
+
+
 C++ FAQ
 --------
 https://isocpp.org/wiki/faq/classes-and-objects
