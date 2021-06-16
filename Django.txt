@@ -7,6 +7,14 @@ python -m venv ./venv
 cd venv\Scripts
 $ Source venv_name\Scripts> activate
 
+--------------------------------------------
+Database - Model - Python - SQL
+--------------------------------------------
+https://stackoverflow.com/questions/805393/what-is-the-best-way-to-access-stored-procedures-in-djangos-orm
+https://docs.djangoproject.com/en/dev/topics/db/sql/
+-----------------------------------------------------
+
+
 
 1. Installing Django in offline mode:
 
