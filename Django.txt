@@ -1,5 +1,12 @@
 1. https://docs.djangoproject.com/en/dev/topics/db/sql/
 
+How to create a python virtual environemnt 
+--------------------------------------------
+https://www.geeksforgeeks.org/create-virtual-environment-using-venv-python/
+python -m venv ./venv
+cd venv\Scripts
+$ Source venv_name\Scripts> activate
+
 
 1. Installing Django in offline mode:
 
