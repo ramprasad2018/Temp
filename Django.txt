@@ -14,6 +14,9 @@ https://stackoverflow.com/questions/805393/what-is-the-best-way-to-access-stored
 https://docs.djangoproject.com/en/dev/topics/db/sql/
 -----------------------------------------------------
 
+How to install Django on Windows
+--------------------------------
+https://docs.djangoproject.com/en/3.2/howto/windows/
 
 
 1. Installing Django in offline mode:
