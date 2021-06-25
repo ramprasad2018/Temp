@@ -10,6 +10,9 @@ https://docs.djangoproject.com/en/3.1/ref/models/fields/
 2. Class views
 https://docs.djangoproject.com/en/3.1/topics/class-based-views/generic-display/#making-friendly-template-contexts
 
+3.Built-in template tags and filters
+https://docs.djangoproject.com/en/3.2/ref/templates/builtins/
+
 
 
 
