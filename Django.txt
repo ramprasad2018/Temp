@@ -1,3 +1,7 @@
+Best Django Tutorials
+----------------------
+https://learndjango.com/
+
 1. https://docs.djangoproject.com/en/dev/topics/db/sql/
 
 How to create a python virtual environemnt 
