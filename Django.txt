@@ -2,6 +2,11 @@ Best Django Tutorials
 ----------------------
 https://learndjango.com/
 
+Django – NGINX: deploy your Django project on a production server
+-------------------------------------------------------------------
+https://www.alibabacloud.com/blog/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04_594319
+
+
 Django Documentation
 ----------------------
 1. Model Data Type
