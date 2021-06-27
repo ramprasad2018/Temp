@@ -2,6 +2,10 @@ Best Django Tutorials
 ----------------------
 https://learndjango.com/
 
+https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/
+
+
+
 Django – NGINX: deploy your Django project on a production server
 -------------------------------------------------------------------
 https://www.alibabacloud.com/blog/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04_594319
