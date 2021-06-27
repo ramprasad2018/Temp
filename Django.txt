@@ -11,6 +11,7 @@ https://www.youtube.com/watch?v=dYdv6pkCufk
 How to use Bootstarp in Django
 --------------------------------
 https://www.youtube.com/watch?v=zglBdzzoDjM&t=302s
+https://www.youtube.com/watch?v=3I3Og_RPIE4&t=39s
 
 
 Django – NGINX: deploy your Django project on a production server
