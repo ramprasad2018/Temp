@@ -4,6 +4,9 @@ https://learndjango.com/
 
 https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/
 
+How to use SSL in Django
+------------------------
+https://www.youtube.com/watch?v=dYdv6pkCufk
 
 
 Django – NGINX: deploy your Django project on a production server
