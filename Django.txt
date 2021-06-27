@@ -8,6 +8,10 @@ How to use SSL in Django
 ------------------------
 https://www.youtube.com/watch?v=dYdv6pkCufk
 
+How to use Bootstarp in Django
+--------------------------------
+https://www.youtube.com/watch?v=zglBdzzoDjM&t=302s
+
 
 Django – NGINX: deploy your Django project on a production server
 -------------------------------------------------------------------
