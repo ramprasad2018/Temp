@@ -17,6 +17,7 @@ https://www.youtube.com/watch?v=3I3Og_RPIE4&t=39s
 Django – NGINX: deploy your Django project on a production server
 -------------------------------------------------------------------
 https://www.alibabacloud.com/blog/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04_594319
+https://www.guguweb.com/2019/11/13/django-nginx-deploy-your-django-project-on-a-production-server/
 
 
 How to Deploy Django on Heroku
