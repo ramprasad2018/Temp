@@ -22,7 +22,8 @@ https://docs.djangoproject.com/en/3.1/topics/class-based-views/generic-display/#
 3.Built-in template tags and filters
 https://docs.djangoproject.com/en/3.2/ref/templates/builtins/
 
-
+4.Built-in template tags and filters
+https://docs.djangoproject.com/en/3.2/ref/templates/builtins/
 
 
 1. https://docs.djangoproject.com/en/dev/topics/db/sql/
