@@ -44,6 +44,8 @@ https://docs.djangoproject.com/en/3.1/topics/auth/default/
 6. settings.py
 https://docs.djangoproject.com/en/3.2/ref/settings/
 
+7. django.contrib.auth
+https://docs.djangoproject.com/en/3.1/ref/contrib/auth/#django.contrib.auth.models.User.is_authenticated
 
 
 
