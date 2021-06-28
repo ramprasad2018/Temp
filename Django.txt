@@ -41,6 +41,11 @@ https://docs.djangoproject.com/en/3.2/ref/templates/builtins/
 5. User Authentication
 https://docs.djangoproject.com/en/3.1/topics/auth/default/
 
+6. settings.py
+https://docs.djangoproject.com/en/3.2/ref/settings/
+
+
+
 
 1. https://docs.djangoproject.com/en/dev/topics/db/sql/
 
