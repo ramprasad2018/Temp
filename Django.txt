@@ -4,6 +4,12 @@ https://learndjango.com/
 
 https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/
 
+
+Django projects
+-----------------
+https://djangopackages.org/packages/p/django-redis/
+
+
 How to use SSL in Django
 ------------------------
 https://www.youtube.com/watch?v=dYdv6pkCufk
